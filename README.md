@@ -1100,7 +1100,7 @@ AEO 최적화된 10개 FAQ 구성 설계했다
 
 **보너스 1 — 재사용 가능 배포**
 
-최종 시스템 프롬프트를 claude.ai Pro "Project Instructions"에 등록. 매 세션 Wiki 페르소나가 자동 적용됨.
+GPTS생성 : https://chatgpt.com/g/g-6a267c74c16c819184f70e9c245c6e57-wiki-ai-jeoneolrijeum-editeo-v2-0
 
 **보너스 2 — 멀티모달**
 
