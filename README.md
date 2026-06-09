@@ -1105,7 +1105,7 @@ GPTS생성 : https://chatgpt.com/g/g-6a267c74c16c819184f70e9c245c6e57-wiki-ai-je
 **보너스 2 — 멀티모달**
 
 ![한국 정부 AI 정책 인포그래픽 — 2026년 7월 21일 시행](./한국 정부AI정책 인포그라피.jpeg)
-https://github.com/4tenlab/codyssey-b1-1/blob/main/%ED%95%9C%EA%B5%AD%20%EC%A0%95%EB%B6%80AI%EC%A0%95%EC%B1%85%20%EC%9D%B8%ED%8F%AC%EA%B7%B8%EB%9D%BC%ED%94%BC.jpeg?raw=true
+https://raw.githubusercontent.com/4tenlab/codyssey-b1-1/refs/heads/main/%ED%95%9C%EA%B5%AD%20%EC%A0%95%EB%B6%80AI%EC%A0%95%EC%B1%85%20%EC%9D%B8%ED%8F%AC%EA%B7%B8%EB%9D%BC%ED%94%BC.jpeg
 
 > 이미지 출처: AI시민연구소 전승현 제작 | AI 기본법 시행령 5대 핵심 조항 시각화 (2026.05.21 입법예고 기준)
 
